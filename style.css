@@ -315,7 +315,7 @@ nav ul li a.active{
 
 /* ---------- MAP ---------- */
 .map-section{
-    padding: 100px;
+    padding: 90px;
     background-color: var(--dark-green);
 }
 .map-header{
@@ -334,7 +334,7 @@ nav ul li a.active{
 .map-container{
     margin: 0 auto;
     width: 100%;
-    padding: 0 auto;
+    padding: 0 24px;
     height: 700px;
 }
 
